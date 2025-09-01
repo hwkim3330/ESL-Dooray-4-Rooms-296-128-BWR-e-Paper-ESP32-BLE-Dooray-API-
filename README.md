@@ -1,4 +1,10 @@
- 
+ <img width="464" height="417" alt="image" src="https://github.com/user-attachments/assets/904b6c24-dd8d-4354-9b75-3f850139cdb0" />
+<img width="748" height="592" alt="image" src="https://github.com/user-attachments/assets/1f1d22fc-9c00-4d6c-8696-e78eb7dfcb09" />
+<img width="714" height="757" alt="image" src="https://github.com/user-attachments/assets/094727c5-ab01-44f2-97c1-41f8e7f74971" />
+<img width="261" height="339" alt="image" src="https://github.com/user-attachments/assets/fba80773-41f9-4934-99ad-a11a6a786d64" />
+<img width="579" height="158" alt="image" src="https://github.com/user-attachments/assets/dc14f0b2-8f07-42d8-b6e7-45c054b253da" />
+<img width="469" height="595" alt="image" src="https://github.com/user-attachments/assets/2a91bd63-c76c-48bd-b855-80b59528981d" />
+
 # ESL Dooray 4 Rooms — 296×128 BWR e-Paper (ESP32, BLE, Dooray API)
 
 Dooray 자원 예약(회의실) 정보를 불러와 296×128 BWR 전자선반라벨(ESL) 태그에 표시하는 ESP32 펌웨어입니다.  
