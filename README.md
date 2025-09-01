@@ -111,7 +111,7 @@ include/secrets.h
 ## Dooray API 쿼리
 
 - 엔드포인트:
-````
+```
 
 GET {DOORAY\_BASE}/reservation/v1/resource-reservations
 ?resourceIds={id}\&timeMin={ISO+09:00}\&timeMax={ISO+09:00}
@@ -218,7 +218,4 @@ MIT (예시). 필요 시 조직 정책에 맞게 변경하세요.
 ## 변경 이력
 
 - **v4.0**: 30분 스마트 업데이트, 진행중 시간 RED 강조, 데이터 해시 기반 전송 최적화, NVS 상태 저장, BLE 재시도·ACK 처리 강화
-```
-
-```
-```
+ 
